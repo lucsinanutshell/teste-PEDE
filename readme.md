@@ -19,16 +19,4 @@ O objetivo do presente trabalho é transparecer os impactos que ONG Passos Mági
 
 Com base em informações educacionais, psicossociais e psicopedagogicas dos estudantes da Passos Mágicos, bem como nas demais infomrações a respeito das atividades da Associação disponíveis na base de dados fornecida, o presente trabalho aplicará metodologias e ferramentas de análise de dados até aqui absorvidas no Curso, como limpeza e tratamento dos dados, elaboração de dashboards (painéis gráficos) e modelos preditivos de redes neurais, conhecidos como Machine Learning, Deep Learning e Natural Language Processing (NLP). Assim, com base em toda essa tecnologia, a finalidade do trabalho será coletar insigths dessas informações, elaborar um storytelling e construir modelos preditivos para identificar se o perfil do aluno se enquadra como passível de alcançar o ponto de virada e avançar na sua performance e crescimento ou se o mesmo se enquadra para a obtenção de uma bolsa de estudos.
 
-### Notebooks e Arquivos.py 📓
-
-Os principais arquivos Jupyter Notebooks (.ipynb) utilizados no projeto são:
-- [https://github.com/ponsoni74/datathon_passos_magicos_new/blob/main/dashboards_datathon_passos.ipynb]
-- [https://github.com/ponsoni74/app_datathon_passos_magicos/blob/main/models_building.ipynb]
-
-### Dados 🎲
-
-Os principais dados repassados pela [(Passos Mágicos)] foram
-- [PEDE_PASSOS_DATASET_FIAP.csv ](https://passosmagicos.org.br/)
-- [PEDE_2024_DATATHON.csv](https://passosmagicos.org.br/)
-
 
