@@ -1,9 +1,5 @@
 ### Datathon Pos-Tech Data Analytics - Análise dos dados da Passos Mágicos
 
-- Aluno: Valdinei Ponsoni Linartevich
-- Curso: Pos-Tech in Data Analytics
-- Link para acessar o Streamlit: https://inserir_aqui_o_link_para_acessar_o_Streamlit.app/
-
 ### Apresentação da Passoa Mágicos 📢
 
 A ONG Passos Mágicos é uma organização sem fins lucrativos que desenvolve um trabalho fundamental na comunidade em que atua, transformando a vida de crianças, jovens e também adultos de baixa renda que por ela são atendidos.
